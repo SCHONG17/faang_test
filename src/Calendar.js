@@ -16,7 +16,7 @@ function Calendar() {
     "Sep",
     "Oct",
     "Nov",
-    "Decc",
+    "Dec",
   ];
 
   const [days, setDays] = useState([
